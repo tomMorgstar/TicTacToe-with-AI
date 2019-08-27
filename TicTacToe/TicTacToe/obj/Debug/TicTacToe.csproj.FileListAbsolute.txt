@@ -1,0 +1,10 @@
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.TicTacToeForm.resources
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\tommo\OneDrive\Desktop\eigene Projekte\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
